@@ -1,0 +1,169 @@
+Home page:
+
+Background:
+width 980px
+height 1200px;
+background: ffffff
+font family: Noto+Sans
+
+logo:
+178px width
+230px height 
+color f2d1b3
+fontfamily:Great+Vibes
+margin-top 20px;
+margin-left 10px;
+
+mainNav:
+fontsize:30px
+650px width
+97px   height
+eec38f
+margin-top 20px;
+margin-left 310px;
+
+subNav:
+ffffff
+376px width 
+95px px height
+margin-top 60px;
+margin-right 10px;
+
+mainImage:
+633px width 
+424px height
+margin-top 30px;
+margin-left 10px;
+
+mainImageDesc
+fontsize:30px;
+246px width
+244px height
+margin-top 30px;
+margin-right 10px;
+
+Image1
+456px width 
+323px height
+fontsize:30px;
+fontcolor:eec38f
+margin-top 360px;
+margin-left 10px;
+margin-right 10px;
+
+
+Image2:
+447px width
+323px height 
+margin-top 20px;
+margin-left 10px;
+fontcolor:eec38f
+
+mainfooter:
+background-color:eec38f
+font-color:ffffff;
+980px width
+203px height 
+margin-top 40px;
+
+About page:
+
+Background:
+width 980px
+height 1200px;
+background: ffffff
+font family: myriad pro regular
+
+logo:
+178px width
+230px height 
+color f2d1b3
+margin-top 20px;
+margin-left 10px;
+
+mainNav:
+fontsize:30px
+650px width
+97px   height
+eec38f
+margin-top 20px;
+margin-left 310px;
+
+subNav:
+ffffff
+376px width 
+95px px height
+margin-top 60px;
+margin-right 10px;
+
+Image1:
+width:425px;
+height:324px;
+fontsize:30px;
+fontcolor:eec38f
+
+image2:
+width:444px;
+height:420px;
+fontsize:30px;
+fontcolor:eec38f
+
+mainfooter:
+background-color:eec38f
+font-color:ffffff;
+980px width
+203px height 
+margin-top 40px;
+
+Contact page:
+Background:
+width 980px
+height 1200px;
+background: ffffff
+font family: myriad pro regular
+
+logo:
+178px width
+230px height 
+color f2d1b3
+margin-top 20px;
+margin-left 10px;
+
+mainNav:
+fontsize:30px
+650px width
+97px   height
+eec38f
+margin-top 20px;
+margin-left 310px;
+
+subNav:
+ffffff
+376px width 
+95px px height
+margin-top 60px;
+margin-right 10px;
+
+contact us:
+fontcolor:cdc8c8
+fontsize:24px;
+margin-top:30px;
+margin-left:20px;
+
+sub contact:
+fontcolor:f45151
+fonsize:24px;
+margin right:20px;
+margin-top:20px;
+
+
+
+mainfooter:
+background-color:eec38f
+font-color:ffffff;
+980px width
+203px height 
+margin-top 40px;
+
+
+
